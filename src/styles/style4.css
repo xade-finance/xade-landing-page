@@ -8327,12 +8327,12 @@ html {
       {
         font-family: Vela;
         text-align: center;
-        font-size: 18px;
+        font-size: 20px;
         line-height: 1.1;
         color: #f0f0f0;
-        width: 100%;
+        width: 50%;
         position: relative;
-        left: 0;
+        left: 25%;
       }
       .betterhead{
         font-family: Montreal;

@@ -1,3 +1,4 @@
+import video from "../content/Video.mp4"
 import "../styles/style1.css";
 import "../styles/style2.css";
 import "../styles/style3.css";
@@ -124,10 +125,14 @@ return (
               <p>Global payments</p>
             </div>
             <div className="right-flex-article">
-              <p>
+              <p style={{"textAlign":"left"}}> 
+                <br/>
+                <br/>
                 Send payments all around the globe in multiple stablecoins with
                 close to zero fees through our advanced blockchain technology
+                <br/>
               </p>
+              <button style={{"textAlign":"center","backgroundColor":"black","width":"50%","height":"25%"}} className="learnMore">Learn More</button>
             </div>
           </div>
           <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
@@ -135,12 +140,17 @@ return (
               <img src="https://www.xade.finance/Media/Illustration-2.svg" />
               <p>Stable savings</p>
             </div>
+
             <div className="right-flex-article">
-              <p>
+              <p style={{"textAlign":"left"}}> 
+                <br/>
+                <br/>
                 Earn up to 8.1% APY with our stable savings account which is
                 designed to provide a yield more than your common regional
-                inflation rate
+                inflation rate  
+                <br/>
               </p>
+              <button style={{"textAlign":"center","backgroundColor":"black","width":"50%","height":"25%"}} className="learnMore">Learn More</button>
             </div>
           </div>
           <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
@@ -152,11 +162,15 @@ return (
             </div>
             <div className="right-flex-article">
               <div className="featurecontent">
-                <p>
+              <p style={{"textAlign":"left"}}> 
+              <br/>
+                <br/>
                   Trade more than 5000 markets including stocks, crypto,
                   commodities with 10x leverage and short selling using perpetual
-                  futures{" "}
+                  futures
+                  <br/>
                 </p>
+                <button style={{"textAlign":"center","backgroundColor":"black","width":"50%","height":"25%"}} className="learnMore">Learn More</button>
               </div>
             </div>
           </div>
@@ -166,11 +180,14 @@ return (
               <p>Secured Loans</p>
             </div>
             <div className="right-flex-article">
-              <p>
-                Get secured loans against multiple real world tokenized assets
+            <p style={{"textAlign":"left"}}> 
+                <br/>
+                <br/>                Get secured loans against multiple real world tokenized assets
                 without any credit score check and at competitive rates with our
                 super app
+                <br/>
               </p>
+              <button style={{"textAlign":"center","backgroundColor":"black","width":"50%","height":"25%"}} className="learnMore">Learn More</button>
             </div>
           </div>
         </div>
@@ -184,8 +201,8 @@ return (
                 Send payments all around the globe in multiple stablecoins with
                 close to zero fees through our advanced blockchain technology
               </p>
+              <img src="https://www.xade.finance/Media/Illustration.svg" />
             </div>
-            <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration.svg" />
           </div>
           <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
             <div className="left-flex-article">
@@ -197,8 +214,8 @@ return (
                 designed to provide a yield more than your common regional
                 inflation rate
               </p>
+              <img src="https://www.xade.finance/Media/Illustration-2.svg" />
             </div>
-             <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration-2.svg" />
           </div>
           <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
             <div className="left-flex-article">
@@ -209,8 +226,8 @@ return (
                 Trade more than 5000 markets including stocks, crypto, commodities
                 with 10x leverage and short selling using perpetual futures{" "}
               </p>
+              <img src="https://www.xade.finance/Media/Illustration-3.svg" />
             </div>
-            <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration-3.svg" />
           </div>
           <div className="article-box" style={{ backgroundColor: "#fFd84e" }}>
             <div className="left-flex-article">
@@ -222,8 +239,8 @@ return (
                 without any credit score check and at competitive rates with our
                 super app
               </p>
+              <img src="https://www.xade.finance/Media/Illustration-4.svg" />
             </div>
-            <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration-4.svg" />
           </div>
         </div>
       </div>

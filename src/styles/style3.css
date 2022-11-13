@@ -3,6 +3,17 @@
       src: url("https://www.xade.finance/Styles/Fonts/VelaSans/Static/OTF/VelaSans-Light.otf");
   
   }
+
+  @font-face{
+    font-family: "NeueMontreal";
+    src: url("https:///app.xade.finance/fonts/NeueMontreal.otf");
+  }
+
+  @font-face {
+    font-family: "VelaSansB";
+    src: url("https://www.xade.finance/fonts/VelaSans/Static/OTF/VelaSans-SemiBold.otf");
+
+}
   
   @font-face {
       font-family: "InterB";
@@ -151,24 +162,34 @@
   }
   
   .wrap-overflow .article-box .left-flex-article p {
-      width: 125%;
-      text-align: center;
-      color: black;
-      font-size: 2rem;
-      font-family: Montreal;
+    width: 125%;
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+    font-family: "NeueMontreal";
+  }
+
+  .learnMore{
+    border-radius: 100px;
+padding:10px;
+    color:40%;
+    font-size:1rem;
+
+    color:white;
   }
   
   .wrap-overflow .article-box .right-flex-article {
-      background-color: inherit;
-      height: 100%;
-      width: 55%;
-      text-align: left;
-      font-family: Vela;
-      font-size: 1.4rem;
-      display: flex;
-      justify-content: space-around;
-      flex-direction: column;
-      padding-bottom: 3.5rem;
+    background-color: inherit;
+    height: 100%;
+    width: 55%;
+    text-align: left;
+    font-family: "VelaSansB";
+    color:black;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding-bottom: 3.5rem;
   }
   
   .article-wrapper-mobile {
@@ -177,10 +198,6 @@
   
   .pro-trading p {
       text-align: left !important;
-  }
-
-  .IMTHEKING {
-    height: 30%;
   }
   /* Mobile view */
   @media screen and (max-width: 900px) {
