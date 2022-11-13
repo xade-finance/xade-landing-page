@@ -247,11 +247,11 @@ const Main = () => {
                   technology
                 </p>
                 <img
-                  style={{ width: "95%" }}
+                  style={{ width: "100%" }}
                   src="https://www.xade.finance/Media/Illustration.svg"
                 />
               </div>
-              <div className="learnDiv">
+              {/* <div className="learnDiv">
                 <button
                   style={{
                     textAlign: "center",
@@ -263,7 +263,7 @@ const Main = () => {
                 >
                   Learn More
                 </button>
-              </div>
+              </div> */}
             </div>
             <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
               <div className="left-flex-article">
@@ -276,11 +276,11 @@ const Main = () => {
                   inflation rate
                 </p>
                 <img
-                  style={{ width: "68%" }}
+                  style={{ width: "86.5%" }}
                   src="https://www.xade.finance/Media/Illustration-2.svg"
                 />
               </div>
-              <div className="learnDiv">
+              {/* <div className="learnDiv">
                 <button
                   style={{
                     textAlign: "center",
@@ -292,7 +292,7 @@ const Main = () => {
                 >
                   Learn More
                 </button>
-              </div>
+              </div> */}
             </div>
             <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
               <div className="left-flex-article">
@@ -305,11 +305,11 @@ const Main = () => {
                   perpetual futures{" "}
                 </p>
                 <img
-                  style={{ width: "62%" }}
+                  style={{ width: "79%" }}
                   src="https://www.xade.finance/Media/Illustration-3.svg"
                 />
               </div>
-              <div className="learnDiv">
+              {/* <div className="learnDiv">
                 <button
                   style={{
                     textAlign: "center",
@@ -321,7 +321,7 @@ const Main = () => {
                 >
                   Learn More
                 </button>
-              </div>
+              </div> */}
             </div>
             <div className="article-box" style={{ backgroundColor: "#fFd84e" }}>
               <div className="left-flex-article">
@@ -334,11 +334,11 @@ const Main = () => {
                   our super app
                 </p>
                 <img
-                  style={{ width: "100%" }}
+                  style={{ width: "107%" }}
                   src="https://www.xade.finance/Media/Illustration-4.svg"
                 />
               </div>
-              <div className="learnDiv">
+              {/* <div className="learnDiv">
                 <button
                   style={{
                     textAlign: "center",
@@ -350,7 +350,7 @@ const Main = () => {
                 >
                   Learn More
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
