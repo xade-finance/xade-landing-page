@@ -69,35 +69,35 @@ html {
         display: block; }
       @font-face {
         font-family: Lemon Milk;
-        src: url("http://localhost:3002/fonts/Lemonmilk.otf");
+        src: url("https://www.xade.finance/fonts/Lemonmilk.otf");
       }
       @font-face {
         font-family: Inter Head;
-        src: url("http://localhost:3002/fonts/static/Inter-Black.ttf");
+        src: url("https://www.xade.finance/fonts/static/Inter-Black.ttf");
       }
       @font-face {
         font-family: Inter ;
-        src: url("http://localhost:3002/fonts/static/Inter-Medium.ttf");
+        src: url("https://www.xade.finance/fonts/static/Inter-Medium.ttf");
       }
       @font-face {
         font-family: Inter Reg;
-        src: url("http://localhost:3002/fonts/static/Inter-Regular.ttf");
+        src: url("https://www.xade.finance/fonts/static/Inter-Regular.ttf");
       }
       @font-face {
         font-family: Montreal;
-        src: url("http://localhost:3002/fonts/Neue-montreal-free-demo_pangram-pangram_030418/NeueMontreal-Medium.otf");
+        src: url("https://www.xade.finance/fonts/Neue-montreal-free-demo_pangram-pangram_030418/NeueMontreal-Medium.otf");
       }
       @font-face {
         font-family: Vela;
-        src: url("http://localhost:3002/fonts/VelaSans/Static/OTF/VelaSans-Light.otf");
+        src: url("https://www.xade.finance/fonts/VelaSans/Static/OTF/VelaSans-Light.otf");
       }
       @font-face {
         font-family: Medium;
-        src: url("http://localhost:3002/fonts/VelaSans/Static/OTF/VelaSans-Medium.otf");
+        src: url("https://www.xade.finance/fonts/VelaSans/Static/OTF/VelaSans-Medium.otf");
       }
       @font-face {
         font-family: Semi;
-        src: url("http://localhost:3002/fonts/VelaSans/Static/OTF/VelaSans-SemiBold.otf");
+        src: url("https://www.xade.finance/fonts/VelaSans/Static/OTF/VelaSans-SemiBold.otf");
       }
       body {
         margin: 0;
@@ -7959,13 +7959,13 @@ html {
       height: 500px;
       width: 400px; */
       /* align-self: flex-start; */
-      background-image: url("http://localhost:3002/media/12.jpeg");
+      background-image: url("https://www.xade.finance/media/12.jpeg");
       
     }
     #better
     {
     padding: 20px;
-    background-image: url("http://localhost:3002/media/cosmos1.jpg");
+    background-image: url("https://www.xade.finance/media/cosmos1.jpg");
     background-repeat: no-repeat;
     display: flex;
     align-items: start;
@@ -8007,7 +8007,7 @@ html {
       height: 500px;
       width: 400px; */
       /* align-self: flex-end; */
-      background-image: url("http://localhost:3002/media/14.jpeg");
+      background-image: url("https://www.xade.finance/media/14.jpeg");
       background-position: right 0%;
     }
     .box3
@@ -8020,7 +8020,7 @@ html {
       /* margin: 40px;
       height: 500px;
       width: 400px; */
-      background-image: url("http://localhost:3002/media/16.jpeg");
+      background-image: url("https://www.xade.finance/media/16.jpeg");
       background-position: left;
       
     }
@@ -8034,7 +8034,7 @@ html {
       /* margin: 40px;
       height: 500px;
       width: 400px; */
-      background-image: url("http://localhost:3002/media/Background-2.png");
+      background-image: url("https://www.xade.finance/media/Background-2.png");
       background-position: right 25%;
      
     

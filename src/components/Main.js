@@ -75,7 +75,7 @@ return (
     {/* section1 */}
     <div className="video-container">
       <video autoPlay="" muted="" loop="">
-        <source src="http://localhost:3002/Media/Video.mov" type="video/mp4" />
+        <source src="https://www.xade.finance/Media/Video.mov" type="video/mp4" />
       </video>
       <div className="caption">
         <div className="header1">A new era of banking</div>
@@ -120,7 +120,7 @@ return (
         <div className="wrap-overflow">
           <div className="article-box">
             <div className="left-flex-article">
-              <img src="http://localhost:3002/Media/Illustration.svg" />
+              <img src="https://www.xade.finance/Media/Illustration.svg" />
               <p>Global payments</p>
             </div>
             <div className="right-flex-article">
@@ -132,7 +132,7 @@ return (
           </div>
           <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
             <div className="left-flex-article">
-              <img src="http://localhost:3002/Media/Illustration-2.svg" />
+              <img src="https://www.xade.finance/Media/Illustration-2.svg" />
               <p>Stable savings</p>
             </div>
             <div className="right-flex-article">
@@ -145,7 +145,7 @@ return (
           </div>
           <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
             <div className="left-flex-article">
-              <img src="http://localhost:3002/Media/Illustration-3.svg" />
+              <img src="https://www.xade.finance/Media/Illustration-3.svg" />
               <div className="featurehead pro-trading">
                 <p>Pro Trading</p>
               </div>
@@ -162,7 +162,7 @@ return (
           </div>
           <div className="article-box" style={{ backgroundColor: "#fFd84e" }}>
             <div className="left-flex-article">
-              <img src="http://localhost:3002/Media/Illustration-4.svg" />
+              <img src="https://www.xade.finance/Media/Illustration-4.svg" />
               <p>Secured Loans</p>
             </div>
             <div className="right-flex-article">
@@ -184,7 +184,7 @@ return (
                 Send payments all around the globe in multiple stablecoins with
                 close to zero fees through our advanced blockchain technology
               </p>
-              <img src="http://localhost:3002/Media/Illustration.svg" />
+              <img src="https://www.xade.finance/Media/Illustration.svg" />
             </div>
           </div>
           <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
@@ -197,7 +197,7 @@ return (
                 designed to provide a yield more than your common regional
                 inflation rate
               </p>
-              <img src="http://localhost:3002/Media/Illustration-2.svg" />
+              <img src="https://www.xade.finance/Media/Illustration-2.svg" />
             </div>
           </div>
           <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
@@ -209,7 +209,7 @@ return (
                 Trade more than 5000 markets including stocks, crypto, commodities
                 with 10x leverage and short selling using perpetual futures{" "}
               </p>
-              <img src="http://localhost:3002/Media/Illustration-3.svg" />
+              <img src="https://www.xade.finance/Media/Illustration-3.svg" />
             </div>
           </div>
           <div className="article-box" style={{ backgroundColor: "#fFd84e" }}>
@@ -222,7 +222,7 @@ return (
                 without any credit score check and at competitive rates with our
                 super app
               </p>
-              <img src="http://localhost:3002/Media/Illustration-4.svg" />
+              <img src="https://www.xade.finance/Media/Illustration-4.svg" />
             </div>
           </div>
         </div>
@@ -246,7 +246,7 @@ return (
       <div className="more-features-center">
         <div className="more-features-top-elements">
           <div className="more-features-element">
-            <img src="http://localhost:3002/Media/uxicon.svg" className="dabbang" />
+            <img src="https://www.xade.finance/Media/uxicon.svg" className="dabbang" />
             <div className="betterhead">
               <p>Familiar user experience</p>
             </div>
@@ -257,7 +257,7 @@ return (
             </p>
           </div>
           <div className="more-features-element">
-            <img src="http://localhost:3002/Media/innovative.svg" className="dabbang" />
+            <img src="https://www.xade.finance/Media/innovative.svg" className="dabbang" />
             <div className="betterhead">
               <p>Innovative and sustainable </p>
             </div>
@@ -270,7 +270,7 @@ return (
         </div>
         <div className="more-features-bottom-elements">
           <div className="more-features-element">
-            <img src="http://localhost:3002/Media/world icon.svg" className="dabbang" />
+            <img src="https://www.xade.finance/Media/world icon.svg" className="dabbang" />
             <div className="betterhead">
               <p>Made for the real world use</p>
             </div>
@@ -281,7 +281,7 @@ return (
             </p>
           </div>
           <div className="more-features-element">
-            <img src="http://localhost:3002/Media/transparenticon.svg" className="dabbang" />
+            <img src="https://www.xade.finance/Media/transparenticon.svg" className="dabbang" />
             <div className="betterhead">
               <p>Transparent and Non-Custodial</p>
             </div>
