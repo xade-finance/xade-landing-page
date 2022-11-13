@@ -136,7 +136,7 @@ const Main = () => {
                   technology
                   <br />
                 </p>
-                <button
+                {/* <button
                   style={{
                     textAlign: "center",
                     backgroundColor: "black",
@@ -146,7 +146,7 @@ const Main = () => {
                   className="learnMore"
                 >
                   Learn More
-                </button>
+                </button> */}
               </div>
             </div>
             <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
@@ -164,7 +164,7 @@ const Main = () => {
                   inflation rate
                   <br />
                 </p>
-                <button
+                {/* <button
                   style={{
                     textAlign: "center",
                     backgroundColor: "black",
@@ -174,7 +174,7 @@ const Main = () => {
                   className="learnMore"
                 >
                   Learn More
-                </button>
+                </button> */}
               </div>
             </div>
             <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
@@ -194,7 +194,7 @@ const Main = () => {
                     perpetual futures
                     <br />
                   </p>
-                  <button
+                  {/* <button
                     style={{
                       textAlign: "center",
                       backgroundColor: "black",
@@ -204,7 +204,7 @@ const Main = () => {
                     className="learnMore"
                   >
                     Learn More
-                  </button>
+                  </button> */}
                 </div>
               </div>
             </div>
@@ -221,7 +221,7 @@ const Main = () => {
                   with our super app
                   <br />
                 </p>
-                <button
+                {/* <button
                   style={{
                     textAlign: "center",
                     backgroundColor: "black",
@@ -231,7 +231,7 @@ const Main = () => {
                   className="learnMore"
                 >
                   Learn More
-                </button>
+                </button> */}
               </div>
             </div>
           </div>
