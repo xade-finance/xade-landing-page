@@ -178,6 +178,10 @@
   .pro-trading p {
       text-align: left !important;
   }
+
+  .IMTHEKING {
+    height: 30%;
+  }
   /* Mobile view */
   @media screen and (max-width: 900px) {
       .header-articles .headers-post-parent {

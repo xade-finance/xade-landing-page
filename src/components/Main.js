@@ -184,8 +184,8 @@ return (
                 Send payments all around the globe in multiple stablecoins with
                 close to zero fees through our advanced blockchain technology
               </p>
-              <img src="https://www.xade.finance/Media/Illustration.svg" />
             </div>
+            <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration.svg" />
           </div>
           <div className="article-box" style={{ backgroundColor: "#d1ff4e" }}>
             <div className="left-flex-article">
@@ -197,8 +197,8 @@ return (
                 designed to provide a yield more than your common regional
                 inflation rate
               </p>
-              <img src="https://www.xade.finance/Media/Illustration-2.svg" />
             </div>
+             <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration-2.svg" />
           </div>
           <div className="article-box" style={{ backgroundColor: "#4eeaff" }}>
             <div className="left-flex-article">
@@ -209,8 +209,8 @@ return (
                 Trade more than 5000 markets including stocks, crypto, commodities
                 with 10x leverage and short selling using perpetual futures{" "}
               </p>
-              <img src="https://www.xade.finance/Media/Illustration-3.svg" />
             </div>
+            <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration-3.svg" />
           </div>
           <div className="article-box" style={{ backgroundColor: "#fFd84e" }}>
             <div className="left-flex-article">
@@ -222,8 +222,8 @@ return (
                 without any credit score check and at competitive rates with our
                 super app
               </p>
-              <img src="https://www.xade.finance/Media/Illustration-4.svg" />
             </div>
+            <img className = "IMTHEKING" src="https://www.xade.finance/Media/Illustration-4.svg" />
           </div>
         </div>
       </div>
