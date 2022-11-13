@@ -74,7 +74,7 @@ return (
     </section>
     {/* section1 */}
     <div className="video-container">
-      <video autoPlay="" muted="" loop="">
+      <video autoPlay="true" muted="true" loop="true">
         <source src="https://www.xade.finance/Media/Video.mov" type="video/mp4" />
       </video>
       <div className="caption">
