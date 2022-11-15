@@ -3,7 +3,7 @@ import "../styles/style1.css";
 import "../styles/style2.css";
 import "../styles/style3.css";
 import "../styles/style4.css";
-
+import HorizontalScroll from "react-horizontal-scrolling";
 const Main = () => {
   return (
     <>
@@ -111,6 +111,7 @@ const Main = () => {
         </div>
       </div>
       <div>
+      
         <div className="ultimate-wrapper-astendo">
           <div className="header-articles">
             <p className="explore-articles">Explore features</p>
@@ -121,6 +122,7 @@ const Main = () => {
               <p className="headers-post">Borrowing</p>
             </div>
           </div>
+          <HorizontalScroll>
           <div className="wrap-overflow">
             <div className="article-box">
               <div className="left-flex-article">
@@ -235,6 +237,8 @@ const Main = () => {
               </div>
             </div>
           </div>
+          </HorizontalScroll>
+          
           <div className="article-wrapper-mobile">
             <div className="article-box">
               <div className="left-flex-article">
@@ -354,6 +358,7 @@ const Main = () => {
             </div>
           </div>
         </div>
+       
       </div>
       <br /> <br /> <br />
       <div className="bettermain">The Super Decentralised Bank</div>

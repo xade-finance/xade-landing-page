@@ -107,13 +107,25 @@
     opacity: 0.3;
     margin-left: 1rem;
   }
+  .wrap-overflow::-webkit-scrollbar {
+    display: none;
+  }
+  .wrap-overflow {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .ultimate-wrapper-astendo{
+    overflow-x:hidden;
+  }
   
   .wrap-overflow {
     width: calc(100vw - 4rem);
     height: 50vh;
     margin-left: 4rem;
     display: flex;
-    overflow-x: hidden;
+    overflow-x: auto;
+    scrollbar-width: 0;
+    background-color: red;
   }
   
   .wrap-overflow * {
