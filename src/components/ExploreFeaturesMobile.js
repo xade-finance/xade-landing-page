@@ -17,11 +17,12 @@ function ExploreFeaturesMobile() {
                   with close to zero fees through our advanced blockchain
                   technology
                 </p>
-                <img
-                  style={{ width: "100%" }}
+                
+              </div>
+              <img
+                  style={{ width: "60%" }}
                   src="https://www.xade.finance/Media/Illustration.svg"
                 />
-              </div>
               {/* <div className="learnDiv">
                 <button
                   style={{
@@ -46,11 +47,11 @@ function ExploreFeaturesMobile() {
                   designed to provide a yield more than your common regional
                   inflation rate
                 </p>
-                <img
-                  style={{ width: "86.5%" }}
+              </div>
+              <img
+                  style={{ width: "60%" }}
                   src="https://www.xade.finance/Media/Illustration-2.svg"
                 />
-              </div>
               {/* <div className="learnDiv">
                 <button
                   style={{
@@ -75,11 +76,12 @@ function ExploreFeaturesMobile() {
                   commodities with 10x leverage and short selling using
                   perpetual futures{" "}
                 </p>
-                <img
-                  style={{ width: "79%" }}
+                
+              </div>
+              <img
+                  style={{ width: "50%" }}
                   src="https://www.xade.finance/Media/Illustration-3.svg"
                 />
-              </div>
               {/* <div className="learnDiv">
                 <button
                   style={{
@@ -104,11 +106,12 @@ function ExploreFeaturesMobile() {
                   without any credit score check and at competitive rates with
                   our super app
                 </p>
-                <img
-                  style={{ width: "107%" }}
+               
+              </div>
+              <img
+                  style={{ width: "60%" }}
                   src="https://www.xade.finance/Media/Illustration-4.svg"
                 />
-              </div>
               {/* <div className="learnDiv">
                 <button
                   style={{
