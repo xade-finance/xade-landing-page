@@ -147,10 +147,6 @@ function ExploreFeatures() {
         <div className="ultimate-wrapper-astendo" ref={headerRef}>
           <div className="header-articles">
             <p className="explore-articles">Explore features</p>
-
-            {/* TODO: Update Headers by using the cards array  */}
-            {/* I didn't have the time to do it, because I was facing issues with ref.  */}
-            {/* If you do this, know about forwardRef, see what I did in the cardItem function */}
             <div className="headers-post-parent" ref={headerTextRef}>
               {cards.map((card, index) => (
                 <CardItemHeader key={index} header={card.header} />
