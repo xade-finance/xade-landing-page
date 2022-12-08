@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useLayoutEffect, forwardRef } from "react";
+import React, { useRef, useEffect, forwardRef } from "react";
 import "../styles/style.css";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -65,6 +65,10 @@ const CardItem = forwardRef((props, ref) => {
     </>
   );
 });
+
+const CardItemHeader = (props) => {
+  return <p className="headers-post">{props.header}</p>;
+};
 
 function ExploreFeatures() {
   const headerRef = useRef();
@@ -143,15 +147,10 @@ function ExploreFeatures() {
         <div className="ultimate-wrapper-astendo" ref={headerRef}>
           <div className="header-articles">
             <p className="explore-articles">Explore features</p>
-
-            {/* TODO: Update Headers by using the cards array  */}
-            {/* I didn't have the time to do it, because I was facing issues with ref.  */}
-            {/* If you do this, know about forwardRef, see what I did in the cardItem function */}
             <div className="headers-post-parent" ref={headerTextRef}>
-              <p className="headers-post">Payments</p>
-              <p className="headers-post">Savings</p>
-              <p className="headers-post">Investments</p>
-              <p className="headers-post">Borrowing</p>
+              {cards.map((card, index) => (
+                <CardItemHeader key={index} header={card.header} />
+              ))}
             </div>
           </div>
         </div>
